@@ -7,7 +7,7 @@ function App() {
     email: "",
     password: "",
     age: "",
-    gender: "",
+    gender: "M",
   };
 
   // const validatedData={}
